@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: http://github.com/andrewsmith-099/phuc-argocd-react.git
+    repoURL: https://github.com/andrewsmith-099/phuc-argocd-react.git
     targetRevision: main
     path: deploy/overlays/uat
   destination:
